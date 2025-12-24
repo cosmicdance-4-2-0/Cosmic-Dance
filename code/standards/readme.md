@@ -1,4 +1,6 @@
 Design Philosophy Codex
+--
+
 0) Prime Directive
 
 Build systems that are minimal but complete, modular by default, and scalable by design.
