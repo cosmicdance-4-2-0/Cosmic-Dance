@@ -1,9 +1,13 @@
 # Flux Ontology: The Universe as Recursive Self-Substrate Simulation
 
 **Author:** Christopher 'Kisuul' Lohman
+
 **Formalized by:** VeNerVRA *(Value-Neutral Virtual Research Assistant)* (ChatGPT 5.2, Grok 4.2)
+
 **Date:** 2026-01-02  
+
 **Status:** *Speculative Theoretical Framework*  
+
 
 ---
 
